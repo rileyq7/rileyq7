@@ -6,16 +6,16 @@ I'm a master's student in **Health Data Science at UCL**, passionate about using
 
 ---
 
-## 🔬 Current Focus
-- 🧠 Master's thesis: ML analysis of osteoarthritis as a comorbidity for atrial fibrillation outcomes
-- ⚛️ Studying quantum computing through MIT xPro + Qiskit
-- 📊 Developing machine learning models with Python, R, and SQL
-- 🧪 Exploring AI in biotech and health (especially outside imaging)
-- 🏃 Training for a 100K ultra marathon 🥵
+## Current Focus
+-  Master's thesis: ML analysis of osteoarthritis as a comorbidity for atrial fibrillation outcomes
+-  Studying quantum computing through MIT xPro + Qiskit
+-  Developing machine learning models with Python, R, and SQL
+-  Exploring AI in biotech and health (especially outside imaging)
+- 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages**: Python, R, SQL, Java  
 - **Frameworks**: scikit-learn, XGBoost, Qiskit, pandas, NumPy, Matplotlib  
 - **Tools**: Jupyter, Git, VS Code, Kaggle  
@@ -23,20 +23,20 @@ I'm a master's student in **Health Data Science at UCL**, passionate about using
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
-### 🔹 [AF-OA-ML-Analysis](https://github.com/rileyq7/AF-OA-ML-Analysis)
+### [AF-OA-ML-Analysis](https://github.com/rileyq7/AF-OA-ML-Analysis)
 Machine learning analysis of osteoarthritis as a comorbidity in atrial fibrillation outcomes using statistical, supervised, and unsupervised models. Work-in-progress repository from my master’s thesis.
 
-### 🔹 [Quantum Use Case Workshop](https://github.com/rileyq7/quantum-health-demo)
+### [Quantum Use Case Workshop](https://github.com/rileyq7/quantum-health-demo)
 A mini-workshop project exploring quantum use cases in health, like simulating molecular interactions and accelerating ML optimization with quantum-enhanced methods.
 
-### 🔹 [Kaggle AI Playground](https://github.com/rileyq7/kaggle-ai-playground)
+### [Kaggle AI Playground](https://github.com/rileyq7/kaggle-ai-playground)
 Personal space for experimenting with Kaggle competitions, exploring ensemble models, preprocessing pipelines, and fairness-aware ML.
 
 ---
 
-## 📫 Let’s Connect!
+## Let’s Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/riley-coleman-4614061b3/)
 - 📧 [rileyq12@gmail.com](mailto:rileyq12@gmail.com)
