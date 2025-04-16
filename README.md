@@ -1,4 +1,4 @@
-
+<img src="github_portfolio_banner.png" alt="Riley Coleman Banner" width="100%">
 
 # Hey, I'm Riley Coleman 👋
 
