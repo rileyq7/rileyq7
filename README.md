@@ -28,7 +28,7 @@ I'm a master's student in **Health Data Science at UCL**, passionate about using
 ### [AF-OA-ML-Analysis](https://github.com/rileyq7/AF-OA-ML-Analysis)
 Machine learning analysis of osteoarthritis as a comorbidity in atrial fibrillation outcomes using statistical, supervised, and unsupervised models. Work-in-progress repository from my master’s thesis.
 
-### [Quantum Use Case Workshop](https://github.com/rileyq7/quantum-health-demo)
+### [Heart Disease Machine Learning Prediction](https://github.com/rileyq7/heart-disease-ml)
 A mini-workshop project exploring quantum use cases in health, like simulating molecular interactions and accelerating ML optimization with quantum-enhanced methods.
 
 ### [Kaggle AI Playground](https://github.com/rileyq7/kaggle-ai-playground)
