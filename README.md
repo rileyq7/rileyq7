@@ -2,22 +2,21 @@
 
 # Hey, I'm Riley Coleman 👋
 
-I'm a master's student in **Health Data Science at UCL**, passionate about using machine learning, AI, and quantum computing to solve real-world problems in health and biotech. I’m especially interested in building foundational tech — from AI models to quantum pipelines — and exploring ways to make them fair, scalable, and impactful.
+I'm a AI Research Engineer  at **Ailsa**, passionate about using machine learning, AI, and quantum computing to solve real-world problems in health and biotech. I’m especially interested in building foundational tech — from AI models to quantum pipelines — and exploring ways to make them fair, scalable, and impactful.
 
 ---
 
 ## Current Focus
 -  Master's thesis: ML analysis of osteoarthritis as a comorbidity for atrial fibrillation outcomes
--  Studying quantum computing through MIT xPro + Qiskit
 -  Developing machine learning models with Python, R, and SQL
 -  Exploring AI in biotech and health (especially outside imaging)
-- 
+-  Lead ML architecture for a grant discovery platform serving UK/EU funding sources — 75% cost reduction, 99%+ uptime. 
 
 ---
 
 ## Tech Stack
-- **Languages**: Python, R, SQL, Java  
-- **Frameworks**: scikit-learn, XGBoost, Qiskit, pandas, NumPy, Matplotlib  
+- **Languages**: Python, R, SQL 
+- **Frameworks**: scikit-learn, XGBoost, Qiskit, pandas, NumPy, Matplotlib, PyTorch, LLMs  
 - **Tools**: Jupyter, Git, VS Code, Kaggle  
 - **Concepts**: ML modeling, unsupervised clustering, algorithmic bias, quantum circuits, predictive analytics
 
