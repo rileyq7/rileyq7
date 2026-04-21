@@ -2,7 +2,7 @@
 
 # Hey, I'm Riley Coleman 👋
 
-I'm an AI Research Engineer  at **Ailsa**, passionate about using machine learning, AI, and quantum computing to solve real-world problems in health and biotech. I’m especially interested in building foundational tech — from AI models to quantum pipelines — and exploring ways to make them fair, scalable, and impactful.
+I'm an AI Research Engineer  at **Pitchwits**, passionate about using machine learning, AI, and quantum computing to solve real-world problems in health and biotech. I’m especially interested in building foundational tech — from AI models to quantum pipelines — and exploring ways to make them fair, scalable, and impactful.
 
 ---
 
