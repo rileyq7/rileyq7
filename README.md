@@ -1,4 +1,3 @@
-[README_minimal.md](https://github.com/user-attachments/files/27445791/README_minimal.md)
 <img src="github_portfolio_banner.png" alt="Riley Coleman Banner" width="100%">
 
 # Hey, I'm Riley 👋
