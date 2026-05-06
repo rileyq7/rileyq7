@@ -12,5 +12,6 @@ Interests
 Agent memory, evals, interpretability. Reading lately on emergent gravity and PBH dark matter on the side, mostly for fun.
 Background
 UCL MSc Health Data Science. First-author manuscript on a ~260k-patient EHR cohort (CALIBER). Previously AI/ML at Projects by IF on responsible AI evaluations, then Principal AI Engineer at Ailsa.
+
 Reach me
-LinkedIn · rileyq12@gmail.com
+https://www.linkedin.com/in/riley-coleman-4614061b3/· rileyq12@gmail.com
