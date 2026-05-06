@@ -7,7 +7,7 @@ Founding engineer at [Pitchwits](https://pitchwits.com), building agentic infras
 ### What I'm working on
 
 - **Pitchwits platform** — full-stack agentic search, RLHF pipeline, and consortium-matching across 150k+ organisations. Most of my recent commits live here (private).
-- **[Dendric](https://github.com/rileyq7/dendric)** — research-side project. A biologically-inspired memory lifecycle primitive for LLM agents. Benchmarking against LongMemEval.
+- **[Dendric](https://github.com/rileyq7/dendric)** — research-side project. A biologically-inspired memory lifecycle primitive for LLM agents. Neurotransmitter-style signal weighting, RRF retrieval, and sleep-cycle compaction.
 
 ### Interests
 
