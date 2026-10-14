@@ -17,7 +17,7 @@ Agent memory, agent safety and evals, interpretability, and how AI systems behav
 
 ### Background
 
-UCL MSc Health Data Science. First-author manuscript on a ~260k-patient EHR cohort (CALIBER). Previously AI/ML at [Projects by IF](https://projectsbyif.com) on responsible AI evaluations, then Principal AI Engineer at Ailsa.
+UCL MSc Health Data Science. First-author manuscript on a ~260k-patient EHR cohort (CALIBER), currently in submission. Previously AI/ML at [Projects by IF](https://projectsbyif.com) on responsible AI evaluations, then Principal AI Engineer at Ailsa.
 
 ### Reach me
 
